@@ -56,7 +56,7 @@
 			// 
 			// button1
 			// 
-			this.button1.Label = "Push Me2";
+			this.button1.Label = "Push Me Again?";
 			this.button1.Name = "button1";
 			// 
 			// Ribbon1

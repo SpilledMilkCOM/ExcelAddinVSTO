@@ -11,3 +11,11 @@
 9. The addin will no longer be a menu item.
 10. Make a change to the ribbon label.
 11. Run under debug and it launches Excel with the BATMAN Addin installed.
+
+Push everything into GitHub
+
+1. Delete project from hard drive.
+2. Uncheck the addin from Excel (and remove)
+3. Clone project from GitHub.
+4. Make a new change to the label (or not)
+4. Run under debug and it launches Excel with the BATMAN Addin installed.
